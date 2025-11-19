@@ -1,0 +1,5 @@
+%syntax-version=1.0.0
+%project=MyLittleGarden
+
+init 2022-06-09T12:53:53Z Nordine Hadni <nordinehadni@gmail.com> # début du projet création tables
+ajout_de_donnees 2022-06-09T13:07:52Z Nordine Hadni <nordinehadni@gmail.com> # remplissage des tables SQL
